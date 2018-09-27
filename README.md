@@ -1,2 +1,2 @@
 # my_app
-test membuat repositori
+test membuat repositori baru
